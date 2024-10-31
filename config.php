@@ -1,0 +1,1 @@
+<?phpglobal $wpdb;global $wps_db_version;$wps_db_version = '1.3';
